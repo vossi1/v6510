@@ -24,6 +24,8 @@ SOFTWARE.
 
 **[Schematic](https://github.com/vossi1/v6510/blob/master/v6510_v2.png)**
 
+**You have to connect 1-2 on the bottom side for phi2 direct. 2-3 is an option to boost phi2 in the cpld - but it's output has only 3V high level. For a WDC 65C02 you have to cut the small trace in the other solder jumper.**
+
 ![V6510 photo](https://github.com/vossi1/v6510/blob/master/v6510_v2_photo.jpg)
 
 ![V6519 bottom-photo](https://github.com/vossi1/v6510/blob/master/v6510_v2_photo2.jpg)
