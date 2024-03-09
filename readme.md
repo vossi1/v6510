@@ -31,20 +31,16 @@ SOFTWARE.
 **Tested successfully in a 250407 board with:**
 
 Cartridges:
-REU1764 (Demo, Sonic), Magic Voice, IEEE-Interface, Sound Sampler
-Formel 64, Final Cartridge 3, Dead Test, Diagnostic Test
-Wizard of War / Gorf / ABeeCee with speech
-Donkey Kong, Choplifter, Le Mans, Wizard of War Ultimax, Mini Basic
+REU1764 (Demo, Sonic), Magic Voice, IEEE-Interface, Sound Sampler, 
+Formel 64, Final Cartridge 3, Dead Test, Diagnostic Test, 
+Wizard of War / Gorf / ABeeCee with speech, 
+Donkey Kong, Choplifter, Le Mans, Wizard of War Ultimax, Mini Basic, 
 Magic Desk
 
 Devices:
-1541, 1581, Mouse 1351, Paddles, Joysticks, SwinSid Nano
-Merlin PP64 (Promenade)
+1541, 1581, Mouse 1351, Paddles, Joysticks, SwinSid Nano, Merlin PP64 (Promenade)
 
 Software:
-Geos 1.2, Geos 2.5
-Super Mario
-Last Ninja
-Gianna Sisters
+Geos 1.2, Geos 2.5, Super Mario, Last Ninja, Gianna Sisters
 
 :x: **BEWARE: There are some XC9572XL FAKES out there**
