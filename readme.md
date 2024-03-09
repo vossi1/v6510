@@ -28,7 +28,7 @@ SOFTWARE.
 
 ![V6510 photo](https://github.com/vossi1/v6510/blob/master/v6510_v2_photo.jpg)
 
-**You have to connect 1-2 or 2-3 on the bottom side for phi2 direct or phi2 buffered in the cpld (but only 3V high level) - at the moment I don't know what's better** :question: **I tested first everything with buffered 2-3** :smile:
+**You have to connect 2-3 for buffered phi2 !**
 
 **For a WDC 65C02 you have to cut the small trace in the other solder jumper.**
 
