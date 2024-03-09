@@ -49,4 +49,8 @@ Devices:
 Software:
 Geos 1.2, Geos 2.5, Super Mario, Last Ninja, Gianna Sisters
 
+**Not working**
+
+ROOS 80 Zeichenkarte = Zero 80
+
 :x: **BEWARE: There are some XC9572XL FAKES out there**
