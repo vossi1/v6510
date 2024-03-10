@@ -26,12 +26,16 @@ SOFTWARE.
 
 **[Parts](https://github.com/vossi1/v6510/blob/master/parts.txt)**
 
+:x: **BEWARE: I got good CPLD's from China, but there are XC9572XL FAKES out there!**
+
+V6510 in my 250407 test-board:
 ![V6510 photo](https://github.com/vossi1/v6510/blob/master/v6510_v2_photo.jpg)
 
 **You have to connect 2-3 for buffered phi2 !**
 
 **For a WDC 65C02 you have to cut the small trace in the other solder jumper.**
 
+Bottom view with Xilinx CPLD:
 ![V6519 bottom-photo](https://github.com/vossi1/v6510/blob/master/v6510_v2_photo2.jpg)
 
 **Tested successfully in a 250407 board with:**
@@ -51,6 +55,17 @@ Geos 1.2, Geos 2.5, Super Mario, Last Ninja, Gianna Sisters
 
 **Not working**
 
-ROOS 80 Zeichenkarte = Zero 80
+ROOS 80 Zeichenkarte = Zero 80 (Runs sometimes with a mos6502 CPU)
 
-:x: **BEWARE: There are some XC9572XL FAKES out there**
+**Tested boards**
+
+PAL: 250707 Rev. B, 250469 Rev. 4, KU-14194HB
+
+**Tested CPU's**
+
+mos6502 26/84, mos6502AD 16/87, mos6502B 47/83, UM6502A 20/93, SY6502 25/83, R6502P 36/81
+
+CMOS not working with REU, Magic Voice, ???: GTEµ G65SC02P-2, CMD G65SC02PI-2
+
+My test-CPU's:
+![test-cpus](https://github.com/vossi1/v6510/blob/master/test-cpus.jpg)
