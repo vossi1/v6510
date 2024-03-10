@@ -45,7 +45,7 @@ REU1764 (Demo, Sonic), Magic Voice, IEEE-Interface, Sound Sampler,
 Formel 64, Final Cartridge 3, Dead Test, Diagnostic Test, 
 Wizard of War / Gorf / ABeeCee with speech, 
 Donkey Kong, Choplifter, Le Mans, Wizard of War Ultimax, Mini Basic, 
-Magic Desk
+Magic Desk, Archon-Cart
 
 Devices:
 1541, 1581, Mouse 1351, Paddles, Joysticks, SwinSid Nano, Merlin PP64 (Promenade)
