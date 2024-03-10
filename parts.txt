@@ -1,8 +1,8 @@
 Part        Value             Package
 
-C1          10 / 10V          C0805
-C2          22 / 6.3V         C0805
+C1          10u / 10V         C0805
+C2          22u / 6.3V        C0805
 C3 - C6     100n              C0603
-IC3         XC9572XLTQG100    TQFP100
+IC3         XC9572XL-7TQ100C  TQFP100
 R1          2,2k              0603
 VR1         LM1117-3.3        SOT223
