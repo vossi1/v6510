@@ -51,7 +51,7 @@ Devices:
 1541, 1581, Mouse 1351, Paddles, Joysticks, SwinSid Nano, Merlin PP64 (Promenade)
 
 Software:
-Geos 1.2, Geos 2.5, Super Mario, Last Ninja, Gianna Sisters
+Geos 1.2, Geos 2.5, Super Mario, Last Ninja, Giana Sisters
 
 **Not working**
 
