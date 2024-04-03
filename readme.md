@@ -59,7 +59,7 @@ ROOS 80 Zeichenkarte = Zero 80 (Runs sometimes with a mos6502 CPU)
 
 **Tested boards**
 
-PAL: 250707 Rev. B, 250469 Rev. 4, KU-14194HB
+PAL: 250407 Rev. B, 250469 Rev. 4, KU-14194HB
 
 **Tested CPU's**
 
