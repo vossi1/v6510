@@ -1,6 +1,6 @@
 # V6510 - Replacement for a 6510 with a 6502  
 
-**Copyright (c) 2024 Vossi - v.2**
+**Copyright (c) 2024 Vossi - v.3**
 
 **www.mos6502.net**
 
@@ -22,7 +22,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-**[Schematic](https://github.com/vossi1/v6510/blob/master/v6510_v2.png)**
+v.3 now without PHI2 selection, because the v6510 only works with buffered PHI2!
+
+**[Schematic](https://github.com/vossi1/v6510/blob/master/v6510_v3.png)**
 
 **[Parts](https://github.com/vossi1/v6510/blob/master/parts.txt)**
 
@@ -30,8 +32,6 @@ SOFTWARE.
 
 V6510 in my 250407 test-board:
 ![V6510 photo](https://github.com/vossi1/v6510/blob/master/v6510_v2_photo.jpg)
-
-**You have to connect 2-3 for buffered phi2 !**
 
 **For a WDC 65C02 you have to cut the small trace in the other solder jumper.**
 
