@@ -24,11 +24,13 @@ SOFTWARE.
 
 v.3 now without PHI2 selection, because the v6510 only works with buffered PHI2!
 
+:x:**Gerber v.3 have only minimal changes, but they are currently untested. I will remove this when I have the first pcb here and it's tested successfully!**
+
 **[Schematic](https://github.com/vossi1/v6510/blob/master/v6510_v3.png)**
 
 **[Parts](https://github.com/vossi1/v6510/blob/master/parts.txt)**
 
-:x: **BEWARE: I got good CPLD's from China, but there are XC9572XL FAKES out there!**
+:x: **BEWARE: I got good CPLD's from China, but there are some XC9572XL FAKES out there!**
 
 V6510 in my 250407 test-board:
 ![V6510 photo](https://github.com/vossi1/v6510/blob/master/v6510_v2_photo.jpg)
