@@ -24,7 +24,7 @@ SOFTWARE.
 
 v.3 now without PHI2 selection, because the v6510 only works with buffered PHI2!
 
-:x:**Gerber v.3 have only minimal changes, but they are currently untested. I will remove this when I have the first pcb here and it's tested successfully!**
+:x:**Gerber v.3 have only minimal changes, but they are currently untested. I will remove this note when I have the first pcb here and it's tested successfully!**
 
 **[Schematic](https://github.com/vossi1/v6510/blob/master/v6510_v3.png)**
 
