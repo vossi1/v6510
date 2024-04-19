@@ -68,5 +68,4 @@ mos 6502, mos 6502AD, mos 6502B, UM6502A, SY6502, R6502P
 CMOS not working with REU, Magic Voice, ???: GTEµ G65SC02P-2, CMD G65SC02PI-2
 
 My test-CPU's:
-
 ![test-cpus](https://github.com/vossi1/v6510/blob/master/test-cpus.jpg)
