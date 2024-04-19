@@ -22,15 +22,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-v.3 now without PHI2 selection, because the v6510 only works with buffered PHI2!
-
-:x:**Gerber v.3 have only minimal changes, but they are currently untested. I will remove this note when I have the first pcb here and it's tested successfully!**
+:thumbsup: v.3 now without PHI2 selection, because the v6510 only works with buffered PHI2! :wink:
 
 **[Schematic](https://github.com/vossi1/v6510/blob/master/v6510_v3.png)**
 
 **[Parts](https://github.com/vossi1/v6510/blob/master/parts.txt)**
 
-:x: **BEWARE: I got good CPLD's from China, but there are some XC9572XL FAKES out there!**
+:heavy_exclamation_mark: **BEWARE: I got good CPLD's from China, but there are some XC9572XL FAKES out there!**
 
 V6510 in my 250407 test-board:
 ![V6510 photo](https://github.com/vossi1/v6510/blob/master/v6510_v2_photo.jpg)
@@ -40,7 +38,7 @@ V6510 in my 250407 test-board:
 Bottom view with Xilinx CPLD:
 ![V6519 bottom-photo](https://github.com/vossi1/v6510/blob/master/v6510_v2_photo2.jpg)
 
-**Tested successfully in a 250407 board with:**
+:white_check_mark: **Tested successfully in a 250407 board with:**
 
 Cartridges:
 REU1764 (Demo, Sonic), Magic Voice, IEEE-Interface, Sound Sampler, 
@@ -55,7 +53,7 @@ Devices:
 Software:
 Geos 1.2, Geos 2.5, Super Mario, Last Ninja, Giana Sisters
 
-**Not working**
+:x: **Not working**
 
 ROOS 80 Zeichenkarte = Zero 80 (Runs sometimes with a mos6502 CPU)
 
@@ -70,4 +68,5 @@ mos 6502, mos 6502AD, mos 6502B, UM6502A, SY6502, R6502P
 CMOS not working with REU, Magic Voice, ???: GTEµ G65SC02P-2, CMD G65SC02PI-2
 
 My test-CPU's:
+
 ![test-cpus](https://github.com/vossi1/v6510/blob/master/test-cpus.jpg)
