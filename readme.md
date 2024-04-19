@@ -24,11 +24,13 @@ SOFTWARE.
 
 :thumbsup: v.3 now without PHI2 selection, because the v6510 only works with buffered PHI2! :wink:
 
+:pushpin: At JLC you have to select: Remove Order Number = "Specify a location"
+
 **[Schematic](https://github.com/vossi1/v6510/blob/master/v6510_v3.png)**
 
 **[Parts](https://github.com/vossi1/v6510/blob/master/parts.txt)**
 
-:heavy_exclamation_mark: **BEWARE: I got good CPLD's from China, but there are some XC9572XL FAKES out there!**
+:exclamation: **BEWARE: I got good CPLD's from China, but there are some XC9572XL FAKES out there!**
 
 V6510 in my 250407 test-board:
 ![V6510 photo](https://github.com/vossi1/v6510/blob/master/v6510_v2_photo.jpg)
