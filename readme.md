@@ -31,6 +31,7 @@ SOFTWARE.
 **[Parts](https://github.com/vossi1/v6510/blob/master/parts.txt)**
 
 :exclamation: **BEWARE: I got good CPLD's from China, but there are some XC9572XL FAKES out there!**
+
 I just got these 10ns cplds and they don't work - but I don't think 7ns is really necessary: 
 ![V6519 bottom-photo](https://github.com/vossi1/v6510/blob/master/xc9572xl_notgood.jpg)
 
