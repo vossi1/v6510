@@ -4,23 +4,9 @@
 
 **www.mos6502.net**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## License
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0
+International License. See [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/).
 
 :thumbsup: v.3 now without PHI2 selection, because the v6510 only works with buffered PHI2! :wink:
 
@@ -31,7 +17,7 @@ SOFTWARE.
 :exclamation: **BEWARE: I got good CPLD's from China, but there are some XC9572XL FAKES out there!**
 
 I just got these 10ns cplds and they don't work - but I don't think 7ns is really necessary: 
-![V6519 bottom-photo](https://github.com/vossi1/v6510/blob/master/xc9572xl_notgood.jpg)
+![V6510 bottom-photo](https://github.com/vossi1/v6510/blob/master/xc9572xl_notgood.jpg)
 
 V6510 in my 250407 test-board:
 ![V6510 photo](https://github.com/vossi1/v6510/blob/master/v6510_v2_photo.jpg)
