@@ -14,6 +14,8 @@ International License. See [https://creativecommons.org/licenses/by-sa/4.0/](htt
 
 **[Parts](https://github.com/vossi1/v6510/blob/master/parts.txt)**
 
+**CPLD-Firmware:** The .JED file can be uploaded with a JTAG-SMT2 Xilinx programmer (China) and [xc3sprog](https://xc3sprog.sourceforge.net/)
+
 :exclamation: **BEWARE: I got good CPLD's from China, but there are some XC9572XL FAKES out there!**
 
 I just got these 10ns cplds and they don't work - but I don't think 7ns is really necessary: 
